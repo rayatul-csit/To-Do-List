@@ -47,6 +47,7 @@ input{
     outline: none;
     background: transparent;
     padding: 24px;
+    font-size: 16px;
 }
 button{
 
@@ -54,7 +55,7 @@ button{
     padding: 20px 45px;
     background-color: #ff5945;
     color: #fff;
-    font-size: 16px;
+    font-size: 17px;
     cursor: pointer;
     border-radius: 40px;
 }
